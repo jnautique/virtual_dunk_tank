@@ -1,7 +1,9 @@
 /*
+
 Project:      Virtual dunk tank
 Author:       Jason Lawley
 Date:         9/3/12
+
 Description:  The following is code is to create a 'Virtual Dunk Tank'
 or VDT.  The VDT replaces a conventional dunk tank.  Instead, the person
 to be dunked sits in front of three sprinklers.  The sprinklers are controlled
